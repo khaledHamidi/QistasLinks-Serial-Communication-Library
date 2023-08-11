@@ -5,8 +5,7 @@ This example demonstrates how to use the QistasLinks library to listen for seria
 ## Prerequisites
 
 To run this example, ensure that you have the following:
-
-- .NET Framework or .NET Core installed.
+- MAKE sure the device (microcontroller) connected with your computer.
 - QistasLinks library installed. You can find the library and installation instructions [here](https://github.com/khaledHamidi/QistasLinks).
 
 ## Getting Started
