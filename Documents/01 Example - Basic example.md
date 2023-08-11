@@ -2,6 +2,19 @@
 
 The following example demonstrates the basic usage of the QistasLinks library in C#. It showcases the creation and configuration of a Qlink, which represents a communication link, along with initializing the connection and retrieving its status.
 
+## Prerequisites
+
+To run this example, ensure that you have the following:
+- QistasLinks library installed. You can find the library and installation instructions [here](https://github.com/khaledHamidi/QistasLinks).
+
+## Getting Started
+
+1. Add a reference to the QistasLinks library.
+
+2. Locate the code file where you want to implement the serial data listening functionality.
+
+
+
 ```csharp
 using QistasLinks;
 
