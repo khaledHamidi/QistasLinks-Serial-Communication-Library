@@ -3,6 +3,10 @@
 
 QistasLinks is a C# .NET 7 DLL library, make serial interface(RS232) communication easy and efficient for any project utilizing a serial connection. With its user-friendly methods and robust features, QistasLinks simplifies the process of establishing communication with microcontrollers and facilitates seamless data exchange, By integrating QistasLinks into your application, you can benefit from enhanced performance and extended capabilities, making it the ideal choice for any project relying on serial connections.
 
+## Who can benefit from using this project
+The QistasLinks project is designed for individuals and developers who are working on projects that rely on serial communication with microcontrollers, projects based on Arduino boards,PIC and AVR microcontrollers. also electronic devices that need to send and receive data. It provides a convenient and efficient solution and facilitates data exchange between microcontrollers and computers.
+
+
 ## Features
 
 - Serial Communication: QistasLinks enables easy and efficient read/write operations for serial or RS232 interfaces. It provides a reliable and flexible communication channel between microcontrollers and computers.
@@ -15,7 +19,7 @@ QistasLinks is a C# .NET 7 DLL library, make serial interface(RS232) communicati
 The QistasLinks library offers the flexibility for users to define their own data patterns. Instead of being restricted to a specific pattern, such as `<data...>`,`{data...}` or `data...\n` , users have the freedom to create their own custom patterns based on their project specific requirements.
 
 
-### Deserialization Command/Instruction
+###  Serialization and Deserialization Command/Instruction
 
 The QistasLinks provides a custom command or instruction format that simplifies communication with serial devices in a structured way. This format allows you to precisely control and configure connected devices by issuing specific commands.
 
@@ -56,17 +60,8 @@ Use this space to show useful examples of how a project can be used. Additional 
 For more examples, please refer to the Documentation folder
 
 
-## Contributing
-
-Contributions to QistasLinks are welcome! If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Commit your changes and push the branch to your fork.
-
-4. Submit a pull request, explaining the changes you've made and their purpose.
+## Open-Source project files 
+you can find it in [Qistas> QistasLinks](https://github.com/khaledHamidi/Qistas/tree/master/QistasLinks)
 
 ## License
 
@@ -84,7 +79,7 @@ If you encounter any issues or have any questions, please [create an issue](http
 
 ## Contact
 
-For any further inquiries or information, please contact our team at [email protected]
+For any further inquiries or information, please contact our team at [engHamidi@yahoo.com]
 
 Thank you for using QistasLinks!
 ```
