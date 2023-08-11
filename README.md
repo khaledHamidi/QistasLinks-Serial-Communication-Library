@@ -60,17 +60,8 @@ Use this space to show useful examples of how a project can be used. Additional 
 For more examples, please refer to the Documentation folder
 
 
-## Contributing
-
-Contributions to QistasLinks are welcome! If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Commit your changes and push the branch to your fork.
-
-4. Submit a pull request, explaining the changes you've made and their purpose.
+## Open-Source project files 
+you can find it in [Qistas> QistasLinks](https://github.com/khaledHamidi/Qistas/tree/master/QistasLinks)
 
 ## License
 
@@ -88,7 +79,7 @@ If you encounter any issues or have any questions, please [create an issue](http
 
 ## Contact
 
-For any further inquiries or information, please contact our team at [email protected]
+For any further inquiries or information, please contact our team at [engHamidi@yahoo.com]
 
 Thank you for using QistasLinks!
 ```
