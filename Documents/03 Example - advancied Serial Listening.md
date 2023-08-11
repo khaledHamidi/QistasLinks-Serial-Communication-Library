@@ -17,10 +17,10 @@ Before running this example, ensure that you have the following:
 
    ```csharp
    using QistasLinks;
+```
 
-
-//Create a new instance of the Qlink class and configure its properties:
- 
+Create a new instance of the Qlink class and configure its properties:
+```csharp
 Qlink link = new Qlink
 {
     port = "Auto",
@@ -40,25 +40,25 @@ Qlink link = new Qlink
 
 Initialize the connection:
 
- 
+```csharp
 link.Init();
 ```
 
 Open the connection:
 
- 
+```csharp
 link.Open();
 ```
 
 Register event handlers for received and junk data:
-
+```csharp
 link.Received += Link_Received;
 link.JunkData += Link_JunkData;
 ```
 
 Implement the event handler for received data:
 
- 
+```csharp
 void Link_Received(string DataReceived, int patternId)
 {
     if (patternId == 1)
@@ -73,7 +73,7 @@ void Link_Received(string DataReceived, int patternId)
 ```
 
 Implement the event handler for junk data:
- 
+```csharp
 void Link_JunkData(string JunkData)
 {
     Console.WriteLine("Junk: " + JunkData);
@@ -81,12 +81,12 @@ void Link_JunkData(string JunkData)
 ```
 
 Print the current status of the serial connection:
-
- 
+```csharp
 Console.WriteLine(link.GetStatus());
+```
 Run the program and observe the received and junk data in the console output.
 
-Customization
+## Customization
 Modify the Qlink properties (port, rate, receiveMode, Buffer) to match your specific serial communication settings.
 Expand the event handlers (Link_Received and Link_JunkData) to perform additional actions with the received and junk data.
 Customize the linksPatterns variable using the QLinksPattern.Create() method to define your own data transfer patterns. Add or remove pattern methods as needed.
