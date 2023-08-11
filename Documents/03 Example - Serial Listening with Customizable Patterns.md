@@ -64,11 +64,11 @@ void Link_Received(string DataReceived, int patternId)
 {
     if (patternId == 1)
     {
-        Console.WriteLine($"Received ID 1: {DataReceived}");
+        Console.WriteLine($"Received as pattern 1: {DataReceived}");
     }
     else if (patternId == 2)
     {
-        Console.WriteLine($"Received ID 2: {DataReceived}");
+        Console.WriteLine($"Received as pattern 2: {DataReceived}");
     }
 }
 ```
