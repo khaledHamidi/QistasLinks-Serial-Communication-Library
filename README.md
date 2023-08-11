@@ -26,7 +26,7 @@ The QistasLinks provides a custom command or instruction format that simplifies 
 Let's get an example:
 In this format, each command follows a consistent structure: `"<operation> <key>:<value>"`.
 
-To illustrate how QistasLinks works, first you have to make the pattren for that structure : "#opration# #key#:#value#". This format can be used as a pattern. and when data recived, its will  build a dynamic object where the command elements correspond to object properties."obj.operation," "obj.key," and "obj.value" that hold the respective values of the command.
+To illustrate how QistasLinks works, first you have to make the pattren for that structure : `"#opration# #key#:#value#"`. This format can be used as a pattern. and when data recived, its will  build a dynamic object where the command elements correspond to object properties.`obj.operation` `obj.key,` and `obj.value` that hold the respective values of the command.
 
 By utilizing this custom command format, you can easily construct and parse commands for interacting with serial devices using the QistasLinks DLL library. It provides a flexible and intuitive way to control device behavior and configuration.
 
