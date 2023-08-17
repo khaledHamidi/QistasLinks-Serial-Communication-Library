@@ -1,11 +1,11 @@
 # QistasLinks
 **The perfect solution for projects that depend on serial communications**
 
-QistasLinks is a C# .NET 7 DLL library, make serial interface(RS232) communication easy and efficient for any project utilizing a serial connection. With its user-friendly methods and robust features, QistasLinks simplifies the process of establishing communication with microcontrollers and facilitates seamless data exchange, By integrating QistasLinks into your application, you can benefit from enhanced performance and extended capabilities, making it the ideal choice for any project relying on serial connections.
+QistasLinks: C# library, make serial interface(RS232) communication easy and efficient for any project utilizing a serial connection. With its user-friendly methods and robust features, QistasLinks simplifies the process of establishing communication with microcontrollers and facilitates seamless data exchange, By integrating QistasLinks into your application, you can benefit from enhanced performance and extended capabilities, making it the ideal choice for any project relying on serial connections.
 
 ## Who can benefit from using this project
 The QistasLinks project is designed for individuals and developers who are working on projects that rely on serial communication with microcontrollers, projects based on Arduino boards,PIC and AVR microcontrollers. also electronic devices that need to send and receive data. It provides a convenient and efficient solution and facilitates data exchange between microcontrollers and computers.
-
+Tags: serial communication, C#, .NET, microcontrollers, Arduino, PIC, AVR,Patterns,commands system,structure
 
 ## Features
 
@@ -14,6 +14,7 @@ The QistasLinks project is designed for individuals and developers who are worki
 - Data Transfer Pattern: The library offers a data transfer pattern that simplifies the process of exchanging data between microcontrollers and computers. It provides a structured approach for sending and receiving data packets.
 
 - The QistasLinks offers support for a custom command or instruction format, allowing users to communicate with the serial devices in a structured manner. This format enables precise control and configuration of the connected devices based on specific commands issued.
+Keywords: serial communication, microcontrollers, communication protocols, UART, I2C, SPI
 ### Customizable Data Transfer Pattern Support 
 
 The QistasLinks library offers the flexibility for users to define their own data patterns. Instead of being restricted to a specific pattern, such as `<data...>`,`{data...}` or `data...\n` , users have the freedom to create their own custom patterns based on their project specific requirements.
