@@ -1,7 +1,11 @@
 # QistasLinks
 **The perfect solution for projects that depend on serial communications**
 
+Author: Khaled HAMIDI
+ORCID: [0009-0004-2962-0833](https://orcid.org/0009-0004-2962-0833)
+
 QistasLinks: C# library, make serial interface(RS232) communication easy and efficient for any project utilizing a serial connection. With its user-friendly methods and robust features, QistasLinks simplifies the process of establishing communication with microcontrollers and facilitates seamless data exchange, By integrating QistasLinks into your application, you can benefit from enhanced performance and extended capabilities, making it the ideal choice for any project relying on serial connections.
+
 
 ## Who can benefit from using this project
 The QistasLinks project is designed for individuals and developers who are working on projects that rely on serial communication with microcontrollers, projects based on Arduino boards,PIC and AVR microcontrollers. also electronic devices that need to send and receive data. It provides a convenient and efficient solution and facilitates data exchange between microcontrollers and computers.
