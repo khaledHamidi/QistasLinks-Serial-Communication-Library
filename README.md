@@ -1,8 +1,10 @@
 # QistasLinks
 **The perfect solution for projects that depend on serial communications**
 
-Author: Khaled HAMIDI
-ORCID: [0009-0004-2962-0833](https://orcid.org/0009-0004-2962-0833)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248290.svg)](https://doi.org/10.5281/zenodo.8248290) ,
+[![Author: Khaled HAMIDI](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-2962-0833) [Khaled HAMIDI](https://orcid.org/0009-0004-2962-0833)
+
+
 
 QistasLinks: C# library, make serial interface(RS232) communication easy and efficient for any project utilizing a serial connection. With its user-friendly methods and robust features, QistasLinks simplifies the process of establishing communication with microcontrollers and facilitates seamless data exchange, By integrating QistasLinks into your application, you can benefit from enhanced performance and extended capabilities, making it the ideal choice for any project relying on serial connections.
 
@@ -55,6 +57,9 @@ Alternatively, you can use the NuGet package manager to install QistasLinks by f
 
 1. Using .NET CLI: Run the command `dotnet add package Qistas.QistasLinks --version 1.0.0`.
 2. Using the Package Manager Console in Visual Studio: Run the command `NuGet\Install-Package Qistas.QistasLinks -Version 1.0.0`. Please note that this command is intended to be used within the Package Manager Console and utilizes the NuGet module's version of Install-Package.
+
+[![Download QistasLinks-Serial-Communication-Library](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/qistaslinks-serial-library/files/latest/download)  
+also you can download it from sourceforge.
 
 Make sure to choose the installation method that best suits your needs.
 
