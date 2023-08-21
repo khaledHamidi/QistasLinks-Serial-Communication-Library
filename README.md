@@ -89,7 +89,7 @@ If you encounter any issues or have any questions, please [create an issue](http
 
 ## Contact
 
-For any further inquiries or information, please contact our team at [engHamidi@yahoo.com]
+For any further inquiries or information, please contact our team at [eng.Hamidi@yahoo.com]
 
 Thank you for using QistasLinks!
 ```
