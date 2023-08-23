@@ -16,7 +16,9 @@ Before running this example, ensure that you have the following:
 3. Import the necessary namespace:
 
 ```csharp
-   using QistasLinks;
+using Qistas;
+using QistasLinks;
+
 ```
 
 Create a new instance of the Qlink class and configure its properties:
