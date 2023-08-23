@@ -15,10 +15,9 @@ To run this example, ensure that you have the following:
 2. Locate the code file where you want to implement the serial data listening functionality.
 
 3. Import the necessary namespace:
-   ```csharp
+```csharp
  using Qistas;
  using QistasLinks;
-
 ````
 
 4. Create a new instance of the `Qlink` class and configure its properties:
