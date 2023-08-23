@@ -6,7 +6,7 @@
 
 
 
-QistasLinks: C# library, make serial interface(RS232) communication easy and efficient for any project utilizing a serial connection. With its user-friendly methods and robust features, QistasLinks simplifies the process of establishing communication with microcontrollers and facilitates seamless data exchange, By integrating QistasLinks into your application, you can benefit from enhanced performance and extended capabilities, making it the ideal choice for any project relying on serial connections.
+QistasLinks: C# serial port library, Make serial interface(RS232) communication easy and efficient for any project utilizing a serial connection. With its user-friendly methods and robust features, QistasLinks simplifies the process of establishing communication with microcontrollers and facilitates seamless data exchange, By integrating QistasLinks into your application, you can benefit from enhanced performance and extended capabilities, making it the ideal choice for any project relying on serial connections in .NET .
 
 
 ## Who can benefit from using this project
@@ -63,11 +63,13 @@ also you can download it from sourceforge.
 
 Make sure to choose the installation method that best suits your needs.
 
-## Usage
+## Usage | Examples
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-For more examples, please refer to the Documentation folder
+For more examples, please refer to the [Documentation](Documentation/) 
+ folder
+ 
+[Examples](Documents/01%20Example%20-%20Basic%20example.md) 
 
 
 ## Open-Source project files 
